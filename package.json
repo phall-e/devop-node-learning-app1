@@ -1,0 +1,22 @@
+{
+  "name": "devop-node-learning-app1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "test.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phall-e/devop-node-learning-app1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phall-e/devop-node-learning-app1/issues"
+  },
+  "homepage": "https://github.com/phall-e/devop-node-learning-app1#readme"
+}
